@@ -4,6 +4,12 @@ Echoes Inside is a small 2D narrative puzzle game developed as a Unity learning 
 
 The project focuses on gameplay programming, scene flow, state management, and applying object-oriented design in a complete game prototype.
 
+## Gameplay Demo
+
+[![Echoes Inside gameplay demo](https://img.youtube.com/vi/-GE0TGu24ac/hqdefault.jpg)](https://youtu.be/-GE0TGu24ac)
+
+[Watch the gameplay demo on YouTube](https://youtu.be/-GE0TGu24ac)
+
 ## Gameplay
 
 The current build contains eight configured scenes and three chapter-specific gameplay loops:
