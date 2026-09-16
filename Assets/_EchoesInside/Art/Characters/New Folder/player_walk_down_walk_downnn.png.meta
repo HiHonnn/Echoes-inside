@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 89c21eb73c9897043a668ab4a9e55fa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5940294133216736629
+    second: player_walk_down_walk_downnn_0
+  - first:
+      213: -3779844935765162299
+    second: player_walk_down_walk_downnn_1
+  - first:
+      213: -1154548085337927457
+    second: player_walk_down_walk_downnn_2
+  - first:
+      213: 188856783761211178
+    second: player_walk_down_walk_downnn_3
+  - first:
+      213: 2368212080551631313
+    second: player_walk_down_walk_downnn_4
+  - first:
+      213: 8290278679029669512
+    second: player_walk_down_walk_downnn_5
+  - first:
+      213: 7092632195493283613
+    second: player_walk_down_walk_downnn_6
+  - first:
+      213: -7094311308395635362
+    second: player_walk_down_walk_downnn_7
+  - first:
+      213: -1658292939344769604
+    second: player_walk_down_walk_downnn_8
+  - first:
+      213: -6598301020779647999
+    second: player_walk_down_walk_downnn_9
+  - first:
+      213: 5960588070899648803
+    second: player_walk_down_walk_downnn_10
+  - first:
+      213: 4881663498836101217
+    second: player_walk_down_walk_downnn_11
+  - first:
+      213: -4454678782444942514
+    second: player_walk_down_walk_downnn_12
+  - first:
+      213: -4660335403692596603
+    second: player_walk_down_walk_downnn_13
+  - first:
+      213: -9032123318920426365
+    second: player_walk_down_walk_downnn_14
+  - first:
+      213: 3853611017071709255
+    second: player_walk_down_walk_downnn_15
+  - first:
+      213: -441770264072942511
+    second: player_walk_down_walk_downnn_16
+  - first:
+      213: -3056525848996033518
+    second: player_walk_down_walk_downnn_17
+  - first:
+      213: -1588660981168240204
+    second: player_walk_down_walk_downnn_18
+  - first:
+      213: 8718000335609668100
+    second: player_walk_down_walk_downnn_19
+  - first:
+      213: -5899629971794543808
+    second: player_walk_down_walk_downnn_20
+  - first:
+      213: 2047092901400437367
+    second: player_walk_down_walk_downnn_21
+  - first:
+      213: -5874153672596590129
+    second: player_walk_down_walk_downnn_22
+  - first:
+      213: 3989172067554585875
+    second: player_walk_down_walk_downnn_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 931
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a874875f5df8da0800000000000000
+      internalID: -5940294133216736629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 931
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f72858e34fe9200800000000000000
+      internalID: 188856783761211178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 931
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ede88e88cfc0370800000000000000
+      internalID: 8290278679029669512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_7
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 931
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d9a09c371fb8d90800000000000000
+      internalID: -7094311308395635362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_10
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 931
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329876a154348b250800000000000000
+      internalID: 5960588070899648803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 817
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168cd1986172fb340800000000000000
+      internalID: 4881663498836101217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 816
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c471f7dc6ca7530800000000000000
+      internalID: 3853611017071709255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_20
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 816
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b30f85ccd402ea0800000000000000
+      internalID: -5899629971794543808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_25
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 817
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50cf885ec7066a4c8bdd12459395a75
+      internalID: 712510024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_28
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 818
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7673bc9be63744a783d965dbfe411
+      internalID: 1601505980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 702
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa71df738fd1e76408aa3de25635b01f
+      internalID: 1694528950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 699
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c24ca91522c443b84e7dd0401ded1
+      internalID: 87757261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_42
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 700
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dc1add14298bd49b091381366fa354
+      internalID: -1368600728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_55
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 699
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531c326305ac86541aa29af5eed75daa
+      internalID: 1254021298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_65
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 700
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de9fb1ef21c294181d240015edc533
+      internalID: 1464825893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 585
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9591455d15e0d4ba5538eec9fcbe20
+      internalID: 466672780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_75
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 584
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd4ba4b3dc576749971ee1acd3c9fb1
+      internalID: 1680128809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_78
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 584
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcf324d59dcc6444b01681e264bebc9
+      internalID: -280957573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_80
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 584
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34ec64bd743e1e4f8472eafe8197800
+      internalID: -1606200161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_85
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 584
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0c43c7b254f9145a46fb77ec38db9d
+      internalID: -1362252768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_88
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 469
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63330521111e6d84abe253d416e7d016
+      internalID: -2010693916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_91
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 469
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f820a921ded6f7c4d9ab366c929b9f6b
+      internalID: -1934509850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_92
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 470
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bd669e6b118954c801cf6469fe4f18
+      internalID: 1322523537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_walk_down_walk_downnn_94
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 467
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d74a472a462b4da078020bfc11595
+      internalID: -1471001591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3caff02abf93b7848985e8bf11ea9bd3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":44.0,"y":93.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      player_walk_down_walk_downnn_0: -5940294133216736629
+      player_walk_down_walk_downnn_1: -3779844935765162299
+      player_walk_down_walk_downnn_10: 5960588070899648803
+      player_walk_down_walk_downnn_100: 1078272187
+      player_walk_down_walk_downnn_101: -1068257047
+      player_walk_down_walk_downnn_102: -975667106
+      player_walk_down_walk_downnn_103: -754715885
+      player_walk_down_walk_downnn_104: 2043373321
+      player_walk_down_walk_downnn_105: -1825821596
+      player_walk_down_walk_downnn_11: 4881663498836101217
+      player_walk_down_walk_downnn_12: -4454678782444942514
+      player_walk_down_walk_downnn_13: -4660335403692596603
+      player_walk_down_walk_downnn_14: -9032123318920426365
+      player_walk_down_walk_downnn_15: 3853611017071709255
+      player_walk_down_walk_downnn_16: -441770264072942511
+      player_walk_down_walk_downnn_17: -3056525848996033518
+      player_walk_down_walk_downnn_18: -1588660981168240204
+      player_walk_down_walk_downnn_19: 8718000335609668100
+      player_walk_down_walk_downnn_2: -1154548085337927457
+      player_walk_down_walk_downnn_20: -5899629971794543808
+      player_walk_down_walk_downnn_21: 2047092901400437367
+      player_walk_down_walk_downnn_22: -5874153672596590129
+      player_walk_down_walk_downnn_23: 3989172067554585875
+      player_walk_down_walk_downnn_24: 1504739122
+      player_walk_down_walk_downnn_25: 712510024
+      player_walk_down_walk_downnn_26: 2056168451
+      player_walk_down_walk_downnn_27: -1131863442
+      player_walk_down_walk_downnn_28: 1601505980
+      player_walk_down_walk_downnn_29: 290900105
+      player_walk_down_walk_downnn_3: 188856783761211178
+      player_walk_down_walk_downnn_30: 1123777577
+      player_walk_down_walk_downnn_31: 1694528950
+      player_walk_down_walk_downnn_32: 1351174259
+      player_walk_down_walk_downnn_33: 643299729
+      player_walk_down_walk_downnn_34: 1653621430
+      player_walk_down_walk_downnn_35: 87757261
+      player_walk_down_walk_downnn_36: -188772079
+      player_walk_down_walk_downnn_37: 1342524040
+      player_walk_down_walk_downnn_38: 2130688176
+      player_walk_down_walk_downnn_39: 522282451
+      player_walk_down_walk_downnn_4: 2368212080551631313
+      player_walk_down_walk_downnn_40: -1272957703
+      player_walk_down_walk_downnn_41: 827628686
+      player_walk_down_walk_downnn_42: -1368600728
+      player_walk_down_walk_downnn_43: 1146366340
+      player_walk_down_walk_downnn_44: 1508955834
+      player_walk_down_walk_downnn_45: 79614064
+      player_walk_down_walk_downnn_46: -857887604
+      player_walk_down_walk_downnn_47: 84648131
+      player_walk_down_walk_downnn_48: 1449196352
+      player_walk_down_walk_downnn_49: 845747516
+      player_walk_down_walk_downnn_5: 8290278679029669512
+      player_walk_down_walk_downnn_50: -1176015068
+      player_walk_down_walk_downnn_51: -1337737877
+      player_walk_down_walk_downnn_52: 467634239
+      player_walk_down_walk_downnn_53: 80631950
+      player_walk_down_walk_downnn_54: 1079649101
+      player_walk_down_walk_downnn_55: 1254021298
+      player_walk_down_walk_downnn_56: -1543739406
+      player_walk_down_walk_downnn_57: 1983478008
+      player_walk_down_walk_downnn_58: 1153778808
+      player_walk_down_walk_downnn_59: 509527173
+      player_walk_down_walk_downnn_6: 7092632195493283613
+      player_walk_down_walk_downnn_60: -1728928003
+      player_walk_down_walk_downnn_61: 2015619266
+      player_walk_down_walk_downnn_62: -776716483
+      player_walk_down_walk_downnn_63: 1910813682
+      player_walk_down_walk_downnn_64: -474127703
+      player_walk_down_walk_downnn_65: 1464825893
+      player_walk_down_walk_downnn_66: -1027166661
+      player_walk_down_walk_downnn_67: -3563738
+      player_walk_down_walk_downnn_68: -1891541119
+      player_walk_down_walk_downnn_69: 959648310
+      player_walk_down_walk_downnn_7: -7094311308395635362
+      player_walk_down_walk_downnn_70: 672997293
+      player_walk_down_walk_downnn_71: 466672780
+      player_walk_down_walk_downnn_72: -187745408
+      player_walk_down_walk_downnn_73: -1057178647
+      player_walk_down_walk_downnn_74: -1274888554
+      player_walk_down_walk_downnn_75: 1680128809
+      player_walk_down_walk_downnn_76: 1412395787
+      player_walk_down_walk_downnn_77: -1388864925
+      player_walk_down_walk_downnn_78: -280957573
+      player_walk_down_walk_downnn_79: 1068603451
+      player_walk_down_walk_downnn_8: -1658292939344769604
+      player_walk_down_walk_downnn_80: -1606200161
+      player_walk_down_walk_downnn_81: -2048290126
+      player_walk_down_walk_downnn_82: 1537025159
+      player_walk_down_walk_downnn_83: -1226216368
+      player_walk_down_walk_downnn_84: 1159131553
+      player_walk_down_walk_downnn_85: -1362252768
+      player_walk_down_walk_downnn_86: -915862532
+      player_walk_down_walk_downnn_87: 1683213451
+      player_walk_down_walk_downnn_88: -2010693916
+      player_walk_down_walk_downnn_89: -979598357
+      player_walk_down_walk_downnn_9: -6598301020779647999
+      player_walk_down_walk_downnn_90: -1927479087
+      player_walk_down_walk_downnn_91: -1934509850
+      player_walk_down_walk_downnn_92: 1322523537
+      player_walk_down_walk_downnn_93: 55557523
+      player_walk_down_walk_downnn_94: -1471001591
+      player_walk_down_walk_downnn_95: 1851642224
+      player_walk_down_walk_downnn_96: -2128010315
+      player_walk_down_walk_downnn_97: 1788779367
+      player_walk_down_walk_downnn_98: -1197866931
+      player_walk_down_walk_downnn_99: 455875785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

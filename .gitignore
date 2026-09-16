@@ -1,0 +1,64 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/Assets/StreamingAssets/aa.meta
+/Assets/StreamingAssets/aa/*
+
+# Unity generated project files
+ExportedObj/
+.consulo/
+.vs/
+.idea/
+.gradle/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+
+# IDE and OS files anywhere in the project
+**/.vs/
+**/.idea/
+**/.DS_Store
+**/Thumbs.db
+**/Desktop.ini
+*.vsidx
+*.wsuo
+
+# Unity recovery and local tooling artifacts
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/Assets/_EchoesInside/Scripts/docs/superpowers/
+/Assets/_EchoesInside/Scripts/docs/superpowers.meta
+
+# Third-party audio packs are kept locally until redistribution rights are verified.
+/Assets/_EchoesInside/Music/
+/Assets/_EchoesInside/Music.meta
+
+# Local AI/tooling work products
+**/.superpowers/
+**/.codex_report/
